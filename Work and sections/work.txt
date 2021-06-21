@@ -1,0 +1,19 @@
+Sketch(Samiksha,Akshay,Aniket)
+-collection of sketches
+
+
+Graphics(Savi,Kunal,Aniket)
+-Invitations
+--main
+--English
+--Hindi
+--Marathi
+--Sanskrit
+--Urdu
+--Sketch and Graphics
+-main cover page(done)
+-front pages of each section
+--english
+--hindi
+--marathi
+--sketch and graphics
