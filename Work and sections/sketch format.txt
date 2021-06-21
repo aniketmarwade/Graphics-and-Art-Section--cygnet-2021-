@@ -1,0 +1,9 @@
+ Sketch format
+ prefered files for sketch:- jpg,jpeg,png,pdf
+ 
+ email-subject:- "Sketch:Name,Branch,year," 
+
+ Name of student
+ Branch
+ Year
+ attached file name: name_branch_year.jpg
